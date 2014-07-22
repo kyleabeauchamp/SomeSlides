@@ -36,28 +36,3 @@ class: img-top-center
 title: Segue slide
 subtitle: I can haz subtitlz?
 class: segue dark nobackground
-
----
-title: Maybe some code?
-
-press 'h' to highlight an important section (that is highlighted
-with &lt;b&gt;...&lt;/b&gt; tags)
-
-<pre class="prettyprint" data-lang="javascript">
-function isSmall() {
-  return window.matchMedia("(min-device-width: ???)").matches;
-}
-
-<b>function hasTouch() {
-  return Modernizr.touch;
-}</b>
-
-function detectFormFactor() {
-  var device = DESKTOP;
-  if (hasTouch()) {
-    device = isSmall() ? PHONE : TABLET;
-  }
-  return device;
-}
-</pre>
-
