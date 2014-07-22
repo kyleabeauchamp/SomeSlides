@@ -25,7 +25,7 @@ title: Slide with a figure
 subtitle: Subtitles are cool too
 class: img-top-center
 
-<img height=150 src=figures/SETD1_HMM_TICS.png />
+<img height=550 src=figures/SETD1_HMM_TICS.png />
 
 
 ---
