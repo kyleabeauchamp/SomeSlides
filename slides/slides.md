@@ -25,12 +25,8 @@ title: Slide with a figure
 subtitle: Subtitles are cool too
 class: img-top-center
 
-<img height=150 src=figures/200px-6n-graf.svg.png />
+<img height=150 src=figures/SETD1_HMM_TICS.png />
 
-- Some point to make about about this figure from wikipedia
-- This slide has a class that was defined in theme/css/custom.css
-
-<footer class="source"> Always cite your sources! </footer>
 
 ---
 title: Segue slide
