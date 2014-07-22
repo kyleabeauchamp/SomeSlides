@@ -9,18 +9,6 @@
 % favicon: http://www.stanford.edu/favicon.ico
 
 ---
-title: Intro slide
-build_lists: true
-
-Here is a list that should build:
-
-- I like formulas, like this one $e=mc^2$
-- It's rendered using MathJax. You can change the settings by editing base.html if you like
-- pressing 'f' toggle fullscreen
-- pressing 'w' toggles widescreen
-- 'o' toggles overview mode
-
----
 title: Slide with a figure
 subtitle: Subtitles are cool too
 class: img-top-center
